@@ -39,7 +39,6 @@
 </div>
 
 ---
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ayat-osama-68b458352">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
