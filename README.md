@@ -22,14 +22,31 @@
 
 ### 🛠️ Skills & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-</p>
+<details>
+  <summary><b>Skills</b></summary>
 
+### Programming Languages
+[![C++](https://img.shields.io/badge/C++-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+
+### Web Development
+[![HTML5](https://img.shields.io/badge/HTML5-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://www.w3schools.com/js/)
+
+### Frameworks
+[![Django](https://img.shields.io/badge/Django-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+### Competitive Programming / Skills
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-Problem_Solving-4CAF50?style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)
+[![Data Structures](https://img.shields.io/badge/Data_Structures-Data_Structures-6A1B9A?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_structure)
+[![Algorithms](https://img.shields.io/badge/Algorithms-Algorithms-2E7D32?style=for-the-badge)](https://en.wikipedia.org/wiki/Algorithm)
+[![OOP](https://img.shields.io/badge/OOP-Object_Oriented-FF6F00?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+### Tools
+[![Git](https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+
+</details>
 ---
 
 ### 📊 Activity Stats
