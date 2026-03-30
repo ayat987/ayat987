@@ -39,9 +39,19 @@
 </div>
 
 ---
+---
+
+### 🌐 Contact & Presence
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayat-osama-68b458352">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  <a href="https://github.com/ayat987" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
   </a>
+  &nbsp; <a href="https://www.linkedin.com/in/ayat-osama-68b458352" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <br/><br/>
+  
   <img src="https://komarev.com/ghpvc/?username=ayat987&style=flat-square&label=Profile+Views&color=blueviolet" />
 </div>
