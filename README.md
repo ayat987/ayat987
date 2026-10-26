@@ -14,7 +14,14 @@
 -  **Education:** Currently studying Computer Science.
 -  **Experience:** ECPC Qualification Contest 2025 and 2026 participant  .
 -  **Community:** Coach @ **ICPC Benha Community**.
--  **Current Focus:** Master Data Structures, Algorithms, and  java developer .
+-  **Current Focus:** I’m a Computer Science and Artificial Intelligence student at Benha University focused on Software Engineering, Backend Development, and problem solving.
+I’ve solved 1,000+ algorithmic problems  across platforms like Codeforces and AtCoder building a strong foundation in C++, algorithms, and core data structures.
+
+I’m also a Competitive Programming Coach at ICPC Benha Community, where I help students build their problem-solving skills and prepare for programming contests. I also contribute as a Problem Setter, creating programming problems and educational materials for newcomers.
+ 
+Parallel to competitive programming, I work on Backend Development now Java developer .
+ 
+I’m currently looking for opportunities to grow as a Software Backend Engineer, work on real-world projects, and learn from experienced teams.
 
 <br clear="right"/>
 
