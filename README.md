@@ -14,7 +14,7 @@
 -  **Education:** Currently studying Computer Science.
 -  **Experience:** ECPC Qualification Contest 2025 and 2026 participant  .
 -  **Community:** Coach @ **ICPC Benha Community**.
--  **Current Focus:** Master Data Structures, Algorithms, and Web Development.
+-  **Current Focus:** Master Data Structures, Algorithms, and  java developer .
 
 <br clear="right"/>
 
