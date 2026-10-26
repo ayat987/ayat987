@@ -12,7 +12,7 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="160"/>
 
 -  **Education:** Currently studying Computer Science.
--  **Experience:** ECPC Qualification Contest 2025 participant.
+-  **Experience:** ECPC Qualification Contest 2025 and 2026 participant  .
 -  **Community:** Coach @ **ICPC Benha Community**.
 -  **Current Focus:** Master Data Structures, Algorithms, and Web Development.
 
